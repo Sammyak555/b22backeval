@@ -1,0 +1,10 @@
+{
+  "title":"Intro",
+  "body":"I am sammyak",
+  "device":"lenovo laptop"
+}
+
+{
+  "email":"sammyak@gmail.com",
+  "password":"12345"
+}
